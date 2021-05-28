@@ -1,4 +1,4 @@
-# Neural Network Training Overview
+# Neural Network Training Overview - Part 1
 
 Consider a simple NN with two inputs, a hidden layer with two neurons and two outputs. The architecture is shown below:
 
